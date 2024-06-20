@@ -168,3 +168,5 @@ echo "$(date) - Nmap data collected for: $scan_target" >> $log_file
 chmod +x NR.sh
 sudo ./NR.sh
 ```
+Version 1.0
+Make sure to replace placeholders with actual values (e.g., username, remote.server.ip, your_password) before running the script.

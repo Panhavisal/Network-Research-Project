@@ -120,5 +120,3 @@ python3 NR.py
 #Windows
 python NR.py
 ```
-Version 1.0
-Make sure to replace placeholders with actual values (e.g., username, remote.server.ip, your_password) before running the script.

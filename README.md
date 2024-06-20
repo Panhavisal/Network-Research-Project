@@ -1,4 +1,4 @@
-# AUPP Network Research Project 2024 V1.0
+# Network Research Project 2024 V1.0
 
 ## Project Explanation:
 
